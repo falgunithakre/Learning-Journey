@@ -1,2 +1,1 @@
-# Learning-Journey
-Repository for tracking my first year BTech CSE coursework, coding labs and hackathon preparation.
+Hi, I'm a first-year BTech CSE student at SIT Nagpur. This repository will host my coursework labs and upcoming hackathon projects as I learn C, Python and Cloud technologies.
